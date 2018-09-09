@@ -1,6 +1,3 @@
----
-layout: default
----
+# Header is needed.
 
-{% include 01-name.md %}
-
+## Another header is added.
